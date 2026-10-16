@@ -128,4 +128,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter.
 ## About
 
 Built by **Om**, data analyst. Questions or feedback are welcome.
-`<https://www.linkedin.com/in/om-abhale-2519441a1/>` | `<https://www.kaggle.com/omjalindarabhale>`
+<https://www.linkedin.com/in/om-abhale-2519441a1/> | <https://www.kaggle.com/omjalindarabhale>
